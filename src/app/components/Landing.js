@@ -12,7 +12,10 @@ export default function () {
 					<br />
 					<Button onClick={e => alert('Piska')}>Buy</Button>
 				</div>
-				<img src='/graphic/pic1.png' className='w-full max-w-[500px]' />
+				<img
+					src='./graphic/pic1.png'
+					className='w-full max-w-[500px]'
+				/>
 			</div>
 		</Section>
 	)
