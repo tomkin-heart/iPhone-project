@@ -10,7 +10,9 @@ export default function () {
 					<br />
 					<p>The power of internet on tip of your finger</p>
 					<br />
-					<Button onClick={e => alert('Piska')}>Buy</Button>
+					<Button onClick={e => alert('https://www.apple.com')}>
+						Buy
+					</Button>
 				</div>
 				<img
 					src='./graphic/pic1.png'

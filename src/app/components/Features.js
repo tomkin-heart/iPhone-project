@@ -13,7 +13,9 @@ export default function () {
 						on a single charge.
 					</p>
 					<br />
-					<Button onClick={e => alert('hey')}>Explore</Button>
+					<Button onClick={e => alert('https://www.apple.com')}>
+						Explore
+					</Button>
 				</div>
 				<img
 					src='./graphic/pic2.png'
